@@ -1,0 +1,6 @@
+Use this URL for country-wise GDP (nominal) with a clean HTML table:
+
+
+https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)?utm_source=chatgpt.com
+
+
